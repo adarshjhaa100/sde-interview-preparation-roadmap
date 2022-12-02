@@ -9,7 +9,8 @@ Domains to cover:
 3. Computer Science Fundamentals ( CN, OS, DBMS(with SQL), OOPS(preferably with JAVA),   )
 4. Projects: Designing software to tackle real world challenges (Make sure to include design docs with the project)
 5. Domain Level Knowledge: e.g. if you're backend engineer, you must have knowledge in backend communication, APIs, DBs etc.
-6. Profile Build: CV, Blogs, Videos, Profile website. Showcase these through the website itself
+6. Cloud and DevOps Tools 
+7. Profile Build: CV, Blogs, Videos, Profile website. Showcase these through the website itself
 
 
 
