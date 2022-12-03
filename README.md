@@ -13,6 +13,6 @@ Domains to cover:
 7. Profile Build: CV, Blogs, Videos, Profile website. Showcase these through the website itself
 
 
-
+Note for the contributor/author: This repo is intended as a learning path and not a code repo. So, please put in links to articles, src code, videos etc. instead of directly adding these resources. 
 
 
